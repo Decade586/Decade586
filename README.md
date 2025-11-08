@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome
+
+欢迎，这里是Decade586
+
+## Who am I？
+
+计算机专业学生，科技爱好者？喜欢ACGN文化，欢迎来信喵~
 
 <!--
 **Decade586/Decade586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
